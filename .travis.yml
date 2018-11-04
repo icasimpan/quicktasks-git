@@ -16,7 +16,7 @@ after_success:
   - MESSAGE='Auto-built and commit via Travis CI.'
   - ls -l
   - mv ${BUILD_DIR} ~/ || exit 1
-  - cd ~/{BUILD_DIR}
+  - cd ~/${BUILD_DIR}
   - git init
   - git add .
   - git config user.email ${EMAIL}
