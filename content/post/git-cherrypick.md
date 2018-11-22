@@ -5,7 +5,9 @@ draft: false
 ---
 
 Cherry Picking in Git is quite easy: 
-# git checkout <destination_branch>
-# git cherry-pick <hash-here>
+```
+git checkout <destination_branch>
+git cherry-pick <hash-here>
+```
 
 See https://swsblog.stanford.edu/blog/cherry-picking-small-git-lesson
