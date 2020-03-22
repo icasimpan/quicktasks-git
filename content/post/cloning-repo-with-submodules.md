@@ -1,6 +1,7 @@
 ---
 title: "Cloning Repos with Submodules"
 date: 2020-02-26T23:17:11+08:00
+tags: [git, version-control, submodules]
 draft: false
 ---
 

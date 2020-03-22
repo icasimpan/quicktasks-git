@@ -1,6 +1,7 @@
 ---
 title: "Deleting a remote git tag"
 date: 2018-04-08T23:17:11+08:00
+tags: [git, version-control, delete, remote, tags]
 draft: false
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Checking Modified Files in a Commit"
 date: 2020-02-19T23:17:11+08:00
+tags: [git, version-control, modified-files]
 draft: false
 ---
 

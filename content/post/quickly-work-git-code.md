@@ -1,6 +1,7 @@
 ---
 title: "Quick Setup for You Git Code"
 date: 2019-04-08T23:17:11+08:00
+tags: [git, version-control, configure]
 draft: false
 ---
 
