@@ -32,3 +32,15 @@ curl \
   https://api.github.com/repos/octocat/hello-world/pulls \
   -d '{"title":"title","head":"head","base":"base"}'
 ```
+
+You can also use a payload json file for this value:
+```
+-d '{"title":"title","head":"head","base":"base"}'
+```
+
+and write it as:
+```
+-d @payload.json
+```
+
+See https://stackoverflow.com/questions/18611903/how-to-pass-payload-via-json-file-for-curl
