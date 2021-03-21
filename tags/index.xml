@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Git | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-git/tags/</link>
+    <description>Recent content in Tags on Git | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Sep 2020 23:17:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-git/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>git</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/git/</link>
+      <pubDate>Tue, 08 Sep 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/github/</link>
+      <pubDate>Tue, 08 Sep 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github-api</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/github-api/</link>
+      <pubDate>Tue, 08 Sep 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/github-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pull-request</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/pull-request/</link>
+      <pubDate>Tue, 08 Sep 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/pull-request/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>version-control</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/version-control/</link>
+      <pubDate>Tue, 08 Sep 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/version-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>error</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/error/</link>
+      <pubDate>Fri, 12 Jun 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/ssl/</link>
+      <pubDate>Fri, 12 Jun 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>troubleshooting</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/troubleshooting/</link>
+      <pubDate>Fri, 12 Jun 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/troubleshooting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public-key</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/public-key/</link>
+      <pubDate>Fri, 29 May 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/public-key/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>depth</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/depth/</link>
+      <pubDate>Tue, 26 May 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/depth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>save-space</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/save-space/</link>
+      <pubDate>Tue, 26 May 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/save-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mirror</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/mirror/</link>
+      <pubDate>Thu, 05 Mar 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/mirror/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>submodules</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/submodules/</link>
+      <pubDate>Wed, 26 Feb 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/submodules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modified-files</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/modified-files/</link>
+      <pubDate>Wed, 19 Feb 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/modified-files/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configure</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/configure/</link>
+      <pubDate>Mon, 08 Apr 2019 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/configure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>merge</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/merge/</link>
+      <pubDate>Mon, 08 Apr 2019 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/merge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cherry-pick</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/cherry-pick/</link>
+      <pubDate>Fri, 23 Nov 2018 06:03:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/cherry-pick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>branch</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/branch/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/branch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>checkout</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/checkout/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/checkout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>committer</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/committer/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/committer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>delete</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/delete/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/delete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diff</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/diff/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/diff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>email</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/email/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/email/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gitignore</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/gitignore/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/gitignore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/google/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/graph/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ignore</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/ignore/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/ignore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>log</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/log/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>login</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/login/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/login/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>migrate</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/migrate/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/migrate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>no-push</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/no-push/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/no-push/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pantheon.io</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/pantheon.io/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/pantheon.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>patch</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/patch/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/patch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pathspec</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/pathspec/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/pathspec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>permissions</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/permissions/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/permissions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pull</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/pull/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/pull/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>remote</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/remote/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/remote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rename</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/rename/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/rename/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>repo</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/repo/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/repo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>revert</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/revert/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/revert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sso</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/sso/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/sso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tags</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/tags/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>update</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/update/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>username</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/tags/username/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/tags/username/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>configure on Git | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-git/tags/configure/</link>
+    <description>Recent content in configure on Git | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Apr 2019 23:17:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-git/tags/configure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quick Setup for You Git Code</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/quickly-work-git-code/</link>
+      <pubDate>Mon, 08 Apr 2019 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/quickly-work-git-code/</guid>
+      <description>If you need less keystrokes in updating your git code specially if it&amp;rsquo;s very minimal change, do the following:
+git clone https://&amp;lt;github_token_here&amp;gt;@github.com/icasimpan/quicktasks-git cd quicktasks-git git config user.name &amp;quot;Ismael Casimpan&amp;quot; git config user.email &amp;quot;ismael.angelo@casimpan.com&amp;quot;  </description>
+    </item>
+    
+    <item>
+      <title>Configure email and username</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/configure-email-username/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/configure-email-username/</guid>
+      <description>git config user.name &amp;quot;Your Name Here&amp;quot; git config user.email &amp;quot;name@email.com&amp;quot;  </description>
+    </item>
+    
+    <item>
+      <title>Pull but no push in git</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/pull-but-no-push/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/pull-but-no-push/</guid>
+      <description>$ git remote set-url --push origin no-pushing $ git push fatal: &#39;no-pushing&#39; does not appear to be a git repository fatal: The remote end hung up unexpectedly  See https://stackoverflow.com/questions/7556155/git-set-up-a-fetch-only-remote</description>
+    </item>
+    
+  </channel>
+</rss>

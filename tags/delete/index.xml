@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>delete on Git | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-git/tags/delete/</link>
+    <description>Recent content in delete on Git | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Apr 2018 23:17:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-git/tags/delete/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deleting a remote git repo branch</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/deleting-remote-git-repo/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/deleting-remote-git-repo/</guid>
+      <description>me@mysite:/var/www/sites/mysite.local$ git push origin :release-redesign To git@git-server:mysite.git - [deleted] release-redesign  </description>
+    </item>
+    
+    <item>
+      <title>Deleting a remote git tag</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/deleting-remote-git-tag/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/deleting-remote-git-tag/</guid>
+      <description>me@mysite:/var/www/sites/mysite.local$ git push origin :v1.56 To git@git-server:mysite.git - [deleted] v1.56  </description>
+    </item>
+    
+  </channel>
+</rss>

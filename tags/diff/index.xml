@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diff on Git | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-git/tags/diff/</link>
+    <description>Recent content in diff on Git | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Apr 2018 23:17:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-git/tags/diff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compare tags contents in github</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/compare-tag-contents-github/</link>
+      <pubDate>Sun, 08 Apr 2018 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/compare-tag-contents-github/</guid>
+      <description>Example https://github.com/icasimpan/shcf/compare/shcf-v0.2.0...shcf-v0.3.0</description>
+    </item>
+    
+  </channel>
+</rss>

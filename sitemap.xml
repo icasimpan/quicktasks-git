@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/post/</loc>
+    <lastmod>2020-09-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/git/</loc>
+    <lastmod>2020-09-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/github/</loc>
+    <lastmod>2020-09-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/github-api/</loc>
+    <lastmod>2020-09-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/pull-request-via-github-api/</loc>
+    <lastmod>2020-09-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/pull-request/</loc>
+    <lastmod>2020-09-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/</loc>
+    <lastmod>2020-09-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/version-control/</loc>
+    <lastmod>2020-09-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/error/</loc>
+    <lastmod>2020-06-12T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/ssl/</loc>
+    <lastmod>2020-06-12T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/ssl-connect-error-on-git-fetch/</loc>
+    <lastmod>2020-06-12T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/troubleshooting/</loc>
+    <lastmod>2020-06-12T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/public-key/</loc>
+    <lastmod>2020-05-29T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/telling-git-to-use-specific-private-key/</loc>
+    <lastmod>2020-05-29T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/depth/</loc>
+    <lastmod>2020-05-26T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/git-with-latest-commit-log-only/</loc>
+    <lastmod>2020-05-26T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/save-space/</loc>
+    <lastmod>2020-05-26T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/mirror/</loc>
+    <lastmod>2020-03-05T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/mirror-git-repo/</loc>
+    <lastmod>2020-03-05T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/cloning-repo-with-submodules/</loc>
+    <lastmod>2020-02-26T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/submodules/</loc>
+    <lastmod>2020-02-26T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/check-modified-files/</loc>
+    <lastmod>2020-02-19T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/modified-files/</loc>
+    <lastmod>2020-02-19T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/configure/</loc>
+    <lastmod>2019-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/merge/</loc>
+    <lastmod>2019-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/merge-remote-branch-to-local/</loc>
+    <lastmod>2019-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/quickly-work-git-code/</loc>
+    <lastmod>2019-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/cherry-pick/</loc>
+    <lastmod>2018-11-23T06:03:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/git-cherrypick/</loc>
+    <lastmod>2018-11-23T06:03:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/branch/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/checking-remote-tags/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/checkout/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/committer/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/compare-tag-contents-github/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/configure-email-username/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/credentials-pantheon-git/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/delete/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/deleting-local-git-tag/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/deleting-remote-git-repo/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/deleting-remote-git-tag/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/diff/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/duplicating-git-repo/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/email/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/fix-identity-used-in-commit/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/git-log-ci-graph/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/git-patch-creation-apply/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/git-submodules/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/gitignore/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/google/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/graph/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/ignore/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/ignore-permission-changes/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/log/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/login/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/migrate/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/move-directory-in-git-to-another-repo/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/negating-contents-of-gitignore/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/no-push/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/pantheon.io/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/patch/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/pathspec/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/pathspec-error-pn-tag-checkout/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/permissions/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/pull/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/pull-but-no-push/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/remote/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/rename/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/rename-git-branch/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/repo/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/revert/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/reverting-a-commit/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/sso/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/tags/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/undo-almost-anything-in-git/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/update/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/tags/username/</loc>
+    <lastmod>2018-04-08T23:17:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-git/</loc>
+    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
+  </url>
+  
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>error on Git | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-git/tags/error/</link>
+    <description>Recent content in error on Git | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jun 2020 23:17:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-git/tags/error/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SSL Connect Error on Git Fetch</title>
+      <link>https://ismael.casimpan.com/quicktasks-git/ssl-connect-error-on-git-fetch/</link>
+      <pubDate>Fri, 12 Jun 2020 23:17:11 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-git/ssl-connect-error-on-git-fetch/</guid>
+      <description>~$ git fetch fatal: unable to access &#39;https://github.com/icasimpan/example.git/&#39;: SSL connect error  Fixed by:
+yum update -y nss curl libcurl  </description>
+    </item>
+    
+  </channel>
+</rss>
